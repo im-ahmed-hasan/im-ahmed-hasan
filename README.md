@@ -25,11 +25,31 @@
 <p align="center">
   <a title="Java" href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height="40" width="50"/> </a>
   &nbsp;
-  <a title="Selenium" href="https://www.selenium.dev/downloads/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="Selenium" width="40"/> </a>
+  <a title = "Python" href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python " height= "40" width="40"/> </a>
   &nbsp;
-  <a title="Appium" href="https://appium.io/" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a>
+  <a title = "JavaScript" href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a> 
+  &nbsp; 
+   <a title = "HTML" href="https://html.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="HTML" width="40" /> </a>
   &nbsp;
-  <a title="Karate Framework" href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="Karate Framework" width="40"/> </a>
+  <a title = "CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS" width="40" /> </a>
+  &nbsp;
+  <a title = "Oracle SQL Developer" href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
+  &nbsp;
+  <a title = "MySQL" href="https://www.mysql.com/" target="_blank"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MYSQL" width="40" /> </a>
+  &nbsp;
+  <a title= "MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" />  </a> 
+  &nbsp; 
+  <a title = "Git" href="https://git-scm.com/downloads" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
+  &nbsp; 
+  <a title = "Github" href="https://github.com/ahmed-hasan-kr" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40"/> </a> 
+  &nbsp;  
+  <a title = "Maven" href="https://maven.apache.org/download.cgi" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJzOSI3AtkpYVLkOtbzVJry5wy83535JC2jEh_3og561Cui0BB1QWcz3xpTkWY-vFCXM&usqp=CAU" alt="Maven" width="40"/> </a>
+  &nbsp;
+  <a title="Selenium" href="https://www.selenium.dev/downloads/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="Selenium" width="39"/> </a>
+  &nbsp;
+  <a title="Appium" href="https://appium.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Appium.png" alt="Appium" width="44"/> </a>
+  &nbsp;
+  <a title="Karate Framework" href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="Karate Framework" width="42"/> </a>
   &nbsp;
   <a title="TestNG" href="https://testng.org/doc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TestNG_Logo.svg/500px-TestNG_Logo.svg.png" alt="TestNG" width="40"/> </a>
   &nbsp;
@@ -38,10 +58,6 @@
   <a title="Rest-Assured" href="https://rest-assured.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured" width="40"/> </a>
   &nbsp;
   <a title="JIRA" href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" alt="Jira" width="40"/> </a>
-  &nbsp;
-  <a title="GitHub" href="https://github.com/im-ahmed-hasan" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40"/> </a>
-  &nbsp;
-  <a title="MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/> </a>
   &nbsp;
   <a title="Postman" href="https://www.postman.com/downloads/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40"/> </a>
   &nbsp;
