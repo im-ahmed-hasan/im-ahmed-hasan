@@ -12,7 +12,11 @@
 <p align="center">
   <a title="LinkedIn" href="https://www.linkedin.com/in/-ahmed-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   &nbsp;
+  <a title="Twitter" href="https://twitter.com/ahmed__foysol" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Twitter_Logo_2012.svg/1200px-Twitter_Logo_2012.svg.png" alt="Twitter" height="30" width="40" /></a>
+  &nbsp;
   <a title="Email" href="mailto:ahmedfhasann@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
+  &nbsp;
+  <a title="Phone" href="tel:+9292477058" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/phone.png" alt="Phone" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -34,7 +38,7 @@
   &nbsp;
   <a title="JIRA" href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" alt="Jira" width="40"/> </a>
   &nbsp;
-  <a title="GitHub" href="https://github.com/ahmedhasan" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40"/> </a>
+  <a title="GitHub" href="https://github.com/im-ahmed-hasan" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40"/> </a>
   &nbsp;
   <a title="MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/> </a>
   &nbsp;
@@ -59,23 +63,8 @@
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=ahmedhasan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=ahmedhasan&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=im-ahmed-hasan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=im-ahmed-hasan&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 
 ---
-
-
-- **Technologies and Tools**: The tools you listed have been included under the "Languages and Tools" section, which will make your profile stand out as a highly skilled QA professional.
-- **Future Goals**: I added the goal of becoming an **Automation Architect** as a natural progression in your career.
-- **Portfolio**: I have created a placeholder for a website like you wanted. Since you don’t have one, you can build a simple site using platforms like **Netlify** or **GitHub Pages** and link it here. You can also use **Wix** or **WordPress** to build a portfolio.
-- **GitHub Stats**: This section will be auto-generated based on your GitHub activity.
-
----
-
-### Fun Additions (Optional Ideas):
-1. **Coding Stats**: You could showcase your coding streak or top languages (you already have that included).
-2. **Fun Fact**: You could add a fun fact or personal detail, like a coding-related joke or something you enjoy outside of work (e.g., "I enjoy gaming, reading tech blogs, and attending hackathons").
-3. **GIFs/Badges**: You could add a cool animated GitHub stats GIF, or even a personalized badge that says **"QA Enthusiast"** or something that reflects your passion for quality.
-
-Let me know if you want to adjust or add anything else, and I can help tweak it!
