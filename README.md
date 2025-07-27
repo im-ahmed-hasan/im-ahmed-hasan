@@ -65,7 +65,6 @@
 
 ---
 
-### Here’s the breakdown:
 
 - **Professional Summary**: I’ve highlighted your experience as an SDET with over a decade of experience, working at **Kroger** through **TCS**. 
 - **Technologies and Tools**: The tools you listed have been included under the "Languages and Tools" section, which will make your profile stand out as a highly skilled QA professional.
