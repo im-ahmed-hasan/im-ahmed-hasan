@@ -51,7 +51,7 @@
   &nbsp;
   <a title="Karate Framework" href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="Karate Framework" width="42"/> </a>
   &nbsp;
-  <a title="TestNG" href="https://testng.org/doc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TestNG_Logo.svg/500px-TestNG_Logo.svg.png" alt="TestNG" width="40"/> </a>
+  <a title="TestNG" href="https://testng.org/doc/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG" width="40"/> </a>
   &nbsp;
   <a title="Cucumber" href="https://cucumber.io/" target="_blank"> <img src="https://images.icon-icons.com/2415/PNG/512/cucumber_plain_logo_icon_146571.png" alt="Cucumber" width="40"/> </a>
   &nbsp;
