@@ -66,7 +66,6 @@
 ---
 
 
-- **Professional Summary**: I’ve highlighted your experience as an SDET with over a decade of experience, working at **Kroger** through **TCS**. 
 - **Technologies and Tools**: The tools you listed have been included under the "Languages and Tools" section, which will make your profile stand out as a highly skilled QA professional.
 - **Future Goals**: I added the goal of becoming an **Automation Architect** as a natural progression in your career.
 - **Portfolio**: I have created a placeholder for a website like you wanted. Since you don’t have one, you can build a simple site using platforms like **Netlify** or **GitHub Pages** and link it here. You can also use **Wix** or **WordPress** to build a portfolio.
