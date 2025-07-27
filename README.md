@@ -63,7 +63,7 @@
   &nbsp;
   <a title="Postman" href="https://www.postman.com/downloads/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40"/> </a>
   &nbsp;
-  <a title="Swagger" href="https://swagger.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Swagger_logo.svg" alt="Swagger" width="40"/> </a>
+  <a title="Swagger" href="https://swagger.io/" target="_blank"> <img src="https://images.icon-icons.com/2107/PNG/512/file_type_swagger_icon_130134.png" alt="Swagger" width="40"/> </a>
   &nbsp;
   <a title = "Sauce Labs" href="https://saucelabs.com/" target="_blank"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1479221701/v0d4moz4jx0wultjuxec.png" alt="Saucslabs" width="40"/> </a> 
   &nbsp; 
