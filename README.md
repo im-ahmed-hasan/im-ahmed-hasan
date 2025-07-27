@@ -1,16 +1,83 @@
-## Hi there 👋
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=34385e&center=true&width=1000&lines=Hello,+This+is+Ahmed+Hasan...;I'm+a+SDET+at+Kroger+via+TCS...;Thank+you+so+much+for+visiting+My+Profile...)](https://yourportfolio.com)
 
-<!--
-**im-ahmed-hasan/im-ahmed-hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">You can Hire me As</h3>
+<h2 align="center">
+  <a href="https://yourportfolio.com"><img src="https://readme-typing-svg.herokuapp.com?lines=SDET%20(SOFTWARE%20DEVELOPMENT%20ENGINEER%20IN%20TEST);QA%20Automation%20Engineer;Test%20Automation%20Expert;&center=true&color=98acf2&width=500&height=50"></a>
+</h2>
+</div>
 
-Here are some ideas to get you started:
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a title="LinkedIn" href="https://www.linkedin.com/in/-ahmed-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  &nbsp;
+  <a title="Email" href="mailto:ahmedfhasann@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Languages and Tools</h3>
+</br>
+<p align="center">
+  <a title="Java" href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height="40" width="50"/> </a>
+  &nbsp;
+  <a title="Selenium" href="https://www.selenium.dev/downloads/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="Selenium" width="40"/> </a>
+  &nbsp;
+  <a title="Appium" href="https://appium.io/" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a>
+  &nbsp;
+  <a title="Karate Framework" href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="Karate Framework" width="40"/> </a>
+  &nbsp;
+  <a title="TestNG" href="https://testng.org/doc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TestNG_Logo.svg/500px-TestNG_Logo.svg.png" alt="TestNG" width="40"/> </a>
+  &nbsp;
+  <a title="Cucumber" href="https://cucumber.io/" target="_blank"> <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" alt="Cucumber" width="40"/> </a>
+  &nbsp;
+  <a title="Rest-Assured" href="https://rest-assured.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured" width="40"/> </a>
+  &nbsp;
+  <a title="JIRA" href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" alt="Jira" width="40"/> </a>
+  &nbsp;
+  <a title="GitHub" href="https://github.com/ahmedhasan" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40"/> </a>
+  &nbsp;
+  <a title="MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/> </a>
+  &nbsp;
+  <a title="Postman" href="https://www.postman.com/downloads/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40"/> </a>
+  &nbsp;
+  <a title="Swagger" href="https://swagger.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Swagger_logo.svg" alt="Swagger" width="40"/> </a>
+</p>
+
+<h3 align="center">All About Me</h3>
+<h5 align="center">
+  Hello! I'm Ahmed Hasan, an experienced SDET with over a decade of experience. Currently, I work as an SDET at **Kroger**, via **TCS**. I am passionate about QA automation, testing frameworks, and always excited to explore new tools and technologies in the QA space. 
+  I thrive in building testing frameworks and always strive to improve testing processes and software quality.
+  
+  <br><br>
+  My career journey has led me to explore numerous testing tools and frameworks. From **Selenium** to **Appium**, **TestNG**, **Karate**, and **Rest-Assured**, I am always learning new technologies to enhance my skills and stay ahead in the QA domain. 
+  <br><br>
+  **Future goal**: I aim to move into an **Automation Architect** role, building scalable and high-performance test automation solutions, and mentoring others in the process.
+</h5>
+
+<h3 align="center">Portfolio/Website</h3>
+`Personal Website` -> [Ahmed Hasan's Portfolio](https://ahmedhasan-portfolio.netlify.app/)
+
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=ahmedhasan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=ahmedhasan&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+</p>
+
+---
+
+### Here’s the breakdown:
+
+- **Professional Summary**: I’ve highlighted your experience as an SDET with over a decade of experience, working at **Kroger** through **TCS**. 
+- **Technologies and Tools**: The tools you listed have been included under the "Languages and Tools" section, which will make your profile stand out as a highly skilled QA professional.
+- **Future Goals**: I added the goal of becoming an **Automation Architect** as a natural progression in your career.
+- **Portfolio**: I have created a placeholder for a website like you wanted. Since you don’t have one, you can build a simple site using platforms like **Netlify** or **GitHub Pages** and link it here. You can also use **Wix** or **WordPress** to build a portfolio.
+- **GitHub Stats**: This section will be auto-generated based on your GitHub activity.
+
+---
+
+### Fun Additions (Optional Ideas):
+1. **Coding Stats**: You could showcase your coding streak or top languages (you already have that included).
+2. **Fun Fact**: You could add a fun fact or personal detail, like a coding-related joke or something you enjoy outside of work (e.g., "I enjoy gaming, reading tech blogs, and attending hackathons").
+3. **GIFs/Badges**: You could add a cool animated GitHub stats GIF, or even a personalized badge that says **"QA Enthusiast"** or something that reflects your passion for quality.
+
+Let me know if you want to adjust or add anything else, and I can help tweak it!
