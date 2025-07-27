@@ -61,7 +61,7 @@
   &nbsp;
   <a title = "Jenkins" href="https://www.jenkins.io/" target="_blank"> <img src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409617.png" alt="Jenkins" width="40"/> </a>
   &nbsp;
-  <a title="Postman" href="https://www.postman.com/downloads/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40"/> </a>
+  <a title="Postman" href="https://www.postman.com/downloads/" target="_blank"> <img src="https://images.icon-icons.com/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="Postman" width="40"/> </a>
   &nbsp;
   <a title="Swagger" href="https://swagger.io/" target="_blank"> <img src="https://images.icon-icons.com/2107/PNG/512/file_type_swagger_icon_130134.png" alt="Swagger" width="40"/> </a>
   &nbsp;
