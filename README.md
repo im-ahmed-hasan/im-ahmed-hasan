@@ -25,25 +25,25 @@
 <p align="center">
   <a title="Java" href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height="40" width="50"/> </a>
   &nbsp;
-  <a title = "Python" href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python " height= "40" width="40"/> </a>
+  <a title="Python" href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python " height= "40" width="40"/> </a>
   &nbsp;
-  <a title = "JavaScript" href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a> 
+  <a title="JavaScript" href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a> 
   &nbsp; 
-  <a title = "HTML" href="https://html.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="HTML" width="40" /> </a>
+  <a title="HTML" href="https://html.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="HTML" width="40" /> </a>
   &nbsp;
-  <a title = "CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS" width="40" /> </a>
+  <a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS" width="40" /> </a>
   &nbsp;
-  <a title = "Oracle SQL Developer" href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
+  <a title="Oracle SQL Developer" href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
   &nbsp;
-  <a title = "MySQL" href="https://www.mysql.com/" target="_blank"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MYSQL" width="40" /> </a>
+  <a title="MySQL" href="https://www.mysql.com/" target="_blank"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MYSQL" width="40" /> </a>
   &nbsp;
-  <a title= "MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" />  </a> 
+  <a title="MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" />  </a> 
   &nbsp; 
-  <a title = "Git" href="https://git-scm.com/downloads" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
+  <a title="Git" href="https://git-scm.com/downloads" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
   &nbsp; 
-  <a title = "Github" href="https://github.com/ahmed-hasan-kr" target="_blank"> <img src="https://images.icon-icons.com/3053/PNG/512/github_alt_macos_bigsur_icon_190138.png" alt="GitHub" width="45"/> </a> 
+  <a title="Github" href="https://github.com/ahmed-hasan-kr" target="_blank"> <img src="https://images.icon-icons.com/3053/PNG/512/github_alt_macos_bigsur_icon_190138.png" alt="GitHub" width="45"/> </a> 
   &nbsp;  
-  <a title = "Maven" href="https://maven.apache.org/download.cgi" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJzOSI3AtkpYVLkOtbzVJry5wy83535JC2jEh_3og561Cui0BB1QWcz3xpTkWY-vFCXM&usqp=CAU" alt="Maven" width="40"/> </a>
+  <a title="Maven" href="https://maven.apache.org/download.cgi" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJzOSI3AtkpYVLkOtbzVJry5wy83535JC2jEh_3og561Cui0BB1QWcz3xpTkWY-vFCXM&usqp=CAU" alt="Maven" width="40"/> </a>
   &nbsp;
   <a title="Selenium" href="https://www.selenium.dev/downloads/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="Selenium" width="39"/> </a>
   &nbsp;
@@ -59,7 +59,9 @@
   &nbsp;
   <a title="JIRA" href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" alt="Jira" width="40"/> </a>
   &nbsp;
-  <a title = "Jenkins" href="https://www.jenkins.io/" target="_blank"> <img src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409617.png" alt="Jenkins" width="40"/> </a>
+  <a title="Rally (Project Management Tool)" href="https://www.rallydev.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Rally_software_logo.png" alt="Rally" width="40"/> </a>
+  &nbsp;
+  <a title="Jenkins" href="https://www.jenkins.io/" target="_blank"> <img src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409617.png" alt="Jenkins" width="40"/> </a>
   &nbsp;
   <a title="Postman" href="https://www.postman.com/downloads/" target="_blank"> <img src="https://images.icon-icons.com/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="Postman" width="40"/> </a>
   &nbsp;
@@ -67,26 +69,25 @@
   &nbsp;
   <a title="Salesforce" href="https://www.salesforce.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Salesforce_logo.svg" alt="Salesforce" width="40"/> </a>
   &nbsp;
-  <a title="AWS" href="https://aws.amazon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Amazon_Web_Services_Logo.svg" alt="AWS" width="40"/> </a>
+  <a title="AWS" href="https://aws.amazon.com/" target="_blank"> <img src="https://images.icon-icons.com/2407/PNG/512/aws_icon_146074.png" alt="AWS" width="40"/> </a>
   &nbsp;
   <a title="Charles Proxy" href="https://www.charlesproxy.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Charles_Proxy_logo.svg" alt="Charles Proxy" width="40"/> </a>
   &nbsp;
-  <a title = "Sauce Labs" href="https://saucelabs.com/" target="_blank"> <img src="https://images.icon-icons.com/2699/PNG/512/saucelabs_logo_icon_168848.png" alt="Saucslabs" width="40"/> </a> 
+  <a title="Sauce Labs" href="https://saucelabs.com/" target="_blank"> <img src="https://images.icon-icons.com/2699/PNG/512/saucelabs_logo_icon_168848.png" alt="Saucslabs" width="40"/> </a> 
   &nbsp; 
-  <a title = "BrowserStack" href="https://www.browserstack.com/"  target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/browserstack-logo-png-transparent.png" alt="Browserstack" width="40"/> </a>
+  <a title="BrowserStack" href="https://www.browserstack.com/"  target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/browserstack-logo-png-transparent.png" alt="Browserstack" width="40"/> </a>
   &nbsp;
   <a href="SDLC" target="_blank"> <img src="https://t4.ftcdn.net/jpg/05/41/91/07/360_F_541910787_PROoPe5SAXpM1ZQbD0kJtXHDp1pjjfcV.jpg" alt="SDLC" width="40"/> </a>
   &nbsp;
-  <a title = "Eclipse" href="https://www.eclipse.org/downloads/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="Eclipse" width="40"/> </a>
+  <a title="Eclipse" href="https://www.eclipse.org/downloads/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="Eclipse" width="40"/> </a>
   &nbsp;
-  <a title= "IntelliJ IDEA" href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDea " width="40"/> </a>
+  <a title="IntelliJ IDEA" href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDea " width="40"/> </a>
   &nbsp;
-  <a title = "PyCharm" href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" alt="Pycharm " width="40"/> </a>
+  <a title="PyCharm" href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" alt="Pycharm " width="40"/> </a>
   &nbsp; 
-  <a title = "WebStorm" href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt="Webstorm " width="40"/> </a>
+  <a title="WebStorm" href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt="Webstorm " width="40"/> </a>
   &nbsp;
-  <a title = "VSCode" href="https://code.visualstudio.com/"target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
-  &nbsp;
+  <a title="VSCode" href="https://code.visualstudio.com/"target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
 </p>
 
 <h3 align="center">All About Me</h3>
