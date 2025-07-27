@@ -10,13 +10,14 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a title="LinkedIn" href="https://www.linkedin.com/in/-ahmed-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  &nbsp;
-  <a title="Twitter" href="https://twitter.com/ahmed__foysol" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Twitter_Logo_2012.svg/1200px-Twitter_Logo_2012.svg.png" alt="Twitter" height="30" width="40" /></a>
+  <a title="Phone" href="tel:+9292477058" target="blank"><img align="center" src="https://i.pinimg.com/originals/84/4e/8c/844e8cd4ab26c82286238471f0e5a901.png" alt="Phone" height="30" width="40" /></a>
   &nbsp;
   <a title="Email" href="mailto:ahmedfhasann@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
   &nbsp;
-  <a title="Phone" href="tel:+9292477058" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/phone.png" alt="Phone" height="30" width="40" /></a>
+  <a title="LinkedIn" href="https://www.linkedin.com/in/-ahmed-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  &nbsp;
+  <a title="Twitter" href="https://twitter.com/ahmed__foysol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="center">Languages and Tools</h3>
