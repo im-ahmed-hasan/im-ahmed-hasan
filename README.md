@@ -67,11 +67,11 @@
   &nbsp;
   <a title="Swagger" href="https://swagger.io/" target="_blank"> <img src="https://images.icon-icons.com/2107/PNG/512/file_type_swagger_icon_130134.png" alt="Swagger" width="40"/> </a>
   &nbsp;
-  <a title="Salesforce" href="https://www.salesforce.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Salesforce_logo.svg" alt="Salesforce" width="40"/> </a>
+  <a title="Salesforce" href="https://www.salesforce.com/" target="_blank"> <img src="https://images.icon-icons.com/2699/PNG/512/salesforce_logo_icon_168852.png" alt="Salesforce" width="65"/> </a>
   &nbsp;
   <a title="AWS" href="https://aws.amazon.com/" target="_blank"> <img src="https://images.icon-icons.com/2407/PNG/512/aws_icon_146074.png" alt="AWS" width="40"/> </a>
   &nbsp;
-  <a title="Charles Proxy" href="https://www.charlesproxy.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Charles_Proxy_logo.svg" alt="Charles Proxy" width="40"/> </a>
+  <a title="Charles Proxy" href="https://www.charlesproxy.com/" target="_blank"> <img src="https://images.icon-icons.com/1381/PNG/512/charlesproxy_94518.png" alt="Charles Proxy" width="40"/> </a>
   &nbsp;
   <a title="Sauce Labs" href="https://saucelabs.com/" target="_blank"> <img src="https://images.icon-icons.com/2699/PNG/512/saucelabs_logo_icon_168848.png" alt="Saucslabs" width="40"/> </a> 
   &nbsp; 
