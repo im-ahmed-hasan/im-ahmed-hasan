@@ -62,7 +62,7 @@
   &nbsp;
   <a title="JIRA" href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" alt="Jira" width="40"/> </a>
   &nbsp;
-  <a title="Rally (Project Management Tool)" href="https://www.rallydev.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Rally_software_logo.png" alt="Rally" width="40"/> </a>
+  <a title="Rally (Project Management Tool)" href="https://www.rallydev.com/" target="_blank"> <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3db8d2eb-27ca-44ca-856e-86a5f256db97.jpeg" alt="Rally" width="40"/> </a>
   &nbsp;
   <a title="Jenkins" href="https://www.jenkins.io/" target="_blank"> <img src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409617.png" alt="Jenkins" width="40"/> </a>
   &nbsp;
