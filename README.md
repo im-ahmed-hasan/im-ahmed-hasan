@@ -1,22 +1,22 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=34385e&center=true&width=1000&lines=Hello,+This+is+Ahmed+Hasan...;I'm+a+SDET+at+Kroger+via+TCS...;Thank+you+so+much+for+visiting+My+Profile...)](https://yourportfolio.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=34385e&center=true&width=1000&lines=Hello,+This+is+Ahmed+Hasan...;I'm+a+SDET+at+Kroger...;Thank+you+so+much+for+visiting+My+Profile...)](https://im-ahmed-hasan.github.io/ahmed-hasan-website/)
 
 <h3 align="center">You can Hire me As</h3>
 <h2 align="center">
-  <a href="https://yourportfolio.com"><img src="https://readme-typing-svg.herokuapp.com?lines=SDET%20(SOFTWARE%20DEVELOPMENT%20ENGINEER%20IN%20TEST);QA%20Automation%20Engineer;Test%20Automation%20Expert;&center=true&color=98acf2&width=500&height=50"></a>
+  <a href="https://im-ahmed-hasan.github.io/ahmed-hasan-website/"><img src="https://readme-typing-svg.herokuapp.com?lines=SDET%20(SOFTWARE%20DEVELOPMENT%20ENGINEER%20IN%20TEST);QA%20Automation%20Engineer;Test%20Automation%20Expert;Functional+Tester%20|%20API+Tester%20|%20Test+Analyst;Mobile+Automation+Engineer;SQE%20|%20SDET%20;&center=true&color=98acf2&width=600&height=50"></a>
 </h2>
 </div>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a title="Phone" href="tel:+9292477058" target="blank"><img align="center" src="https://i.pinimg.com/originals/84/4e/8c/844e8cd4ab26c82286238471f0e5a901.png" alt="Phone" height="30" width="40" /></a>
+  <a title="Phone" href="tel:+9292477058" target="blank"><img align="center" src="https://i.pinimg.com/originals/84/4e/8c/844e8cd4ab26c82286238471f0e5a901.png" alt="Phone" height="40" width="40" /></a>
   &nbsp;
   <a title="Email" href="mailto:ahmedfhasann@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
   &nbsp;
-  <a title="LinkedIn" href="https://www.linkedin.com/in/-ahmed-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a title="LinkedIn" href="https://www.linkedin.com/in/-ahmed-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a>
   &nbsp;
-  <a title="Twitter" href="https://twitter.com/ahmed__foysol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a title="Twitter" href="https://twitter.com/ahmed__foysol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="38" width="40" /></a>
   
 </p>
 
