@@ -95,7 +95,7 @@
 
 <h3 align="center">All About Me</h3>
 <h5 align="center">
-  Hello! I'm Ahmed Hasan, an experienced SDET with over a decade of experience. Currently, I work as an SDET at **Kroger**, via **TCS**. I am passionate about QA automation, testing frameworks, and always excited to explore new tools and technologies in the QA space. 
+  Hello! I'm Ahmed Hasan, an experienced SDET with over a decade of experience. Currently, I work as an SDET at Kroger. I am passionate about QA automation, testing frameworks, and always excited to explore new tools and technologies in the QA space. 
   I thrive in building testing frameworks and always strive to improve testing processes and software quality.
   
   <br><br>
