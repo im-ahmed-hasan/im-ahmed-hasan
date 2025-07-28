@@ -115,7 +115,13 @@
    `Personal Website` -> <a href="https://im-ahmed-hasan.github.io/ahmed-hasan-website/" target="_blank">`Ahmed Hasan`</a>
 
  <div align="center">
-<h1 align="center"></h1>  
+ <h1 align="center"></h1>  
+
+ &nbsp;**This week I spent my time on**
+
+ <p align="center">
+  <img width="460px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenanimation20&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
+
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
