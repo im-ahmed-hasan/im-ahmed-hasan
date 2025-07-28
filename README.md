@@ -99,10 +99,20 @@
   My career journey has led me to explore numerous testing tools and frameworks. From **Selenium** to **Appium**, **TestNG**, **Karate**, and **Rest-Assured**, I am always learning new technologies to enhance my skills and stay ahead in the QA domain. 
   <br><br>
   **Future goal**: I aim to move into an **Automation Architect** role, building scalable and high-performance test automation solutions, and mentoring others in the process.
-</h5>
+  </h5>
+  </div>
 
-<h3 align="center">Portfolio/Website</h3>
-`Personal Website` -> [Ahmed Hasan's Portfolio](https://ahmedhasan-portfolio.netlify.app/)
+ <!--- Portfolio/Website --->  
+  
+  <div align="center">
+  <h1 align="center"></h1>  
+
+  <h3>Portfolio/Website</h3>
+  
+   `Personal Website` -> <a href="https://im-ahmed-hasan.github.io/ahmed-hasan-website/" target="_blank">`Ahmed Hasan`</a>
+
+ <div align="center">
+<h1 align="center"></h1>  
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
