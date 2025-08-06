@@ -98,6 +98,8 @@
 <h3 align="center">All About Me</h3>
 <h5 align="center"></h5>
 
+<hr style="width:50px; border:1px solid #ccc; margin:auto;"/>
+
 Hi, I'm **Ahmed Hasan** 🙌, an **SDET (Software Development Engineer in Test)**, **Software Tester** and lifelong **Bug Hunter**. I’m passionate about test automation, quality engineering, and enjoy diving into **Data Structures** and **Problem Solving**. ❤️✌
 
 My **career journey** has led me to explore numerous testing tools and frameworks. From **Selenium** to **Appium**, **TestNG**, **Karate** and **Rest-Assured**, I always enjoy solving **complex problems** and continuously **enhancing my skills** to stay at the forefront of the industry. 
@@ -105,7 +107,6 @@ My **career journey** has led me to explore numerous testing tools and framework
 My **goal** is to grow into an **Automation Architect** role—designing scalable, high-performance test automation solutions while mentoring the **next generation** of **QA professionals**.
 
 ---
-
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
@@ -151,7 +152,7 @@ My **goal** is to grow into an **Automation Architect** role—designing scalabl
   <img width="460px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenanimation20&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
 
 <p align="center">
-  <img width="395px" src="https://github-readme-stats.vercel.app/api?username=im-ahmed-hasan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="395px" src="https://github-readme-stats.vercel.app/api?username=im-ahmed-hasan&count_private=true&show_icons=true&&custom_title=Ahmed%20Foysol%20Hasan's%20GitHub%20Stats&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=im-ahmed-hasan&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 
