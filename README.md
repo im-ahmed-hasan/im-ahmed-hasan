@@ -8,7 +8,7 @@
 </h2>
 </div>
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connect with Me</h3>
 <p align="center">
   <a title="Phone" href="tel:+9292477058" target="_blank"><img align="center" src="https://i.pinimg.com/originals/84/4e/8c/844e8cd4ab26c82286238471f0e5a901.png" alt="Phone" height="40" width="40" /></a>
   &nbsp;
@@ -93,17 +93,45 @@
   <a title="VSCode" href="https://code.visualstudio.com/"target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
 </p>
 
+---
+
 <h3 align="center">All About Me</h3>
-<h5 align="center">
-  Hello! I'm Ahmed Hasan, an experienced SDET with over a decade of experience. Currently, I work as an SDET at Kroger. I am passionate about QA automation, testing frameworks, and always excited to explore new tools and technologies in the QA space. 
-  I thrive in building testing frameworks and always strive to improve testing processes and software quality.
-  
-  <br><br>
-  My career journey has led me to explore numerous testing tools and frameworks. From **Selenium** to **Appium**, **TestNG**, **Karate**, and **Rest-Assured**, I am always learning new technologies to enhance my skills and stay ahead in the QA domain. 
-  <br><br>
-  **Future goal**: I aim to move into an **Automation Architect** role, building scalable and high-performance test automation solutions, and mentoring others in the process.
-  </h5>
-  </div>
+<h5 align="center"></h5>
+
+Hi, I'm **Ahmed Hasan** 🙌, an **SDET (Software Development Engineer in Test)**, **Software Tester** and lifelong **Bug Hunter**. I’m passionate about test automation, quality engineering, and enjoy diving into **Data Structures** and **Problem Solving**. ❤️✌
+
+My **career journey** has led me to explore numerous testing tools and frameworks. From **Selenium** to **Appium**, **TestNG**, **Karate** and **Rest-Assured**, I always enjoy solving **complex problems** and continuously **enhancing my skills** to stay at the forefront of the industry. 
+
+My **goal** is to grow into an **Automation Architect** role—designing scalable, high-performance test automation solutions while mentoring the **next generation** of **QA professionals**.
+
+---
+
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
+
+**👋 Talking About Personal Stuff**
+
+- 🔭 I’m currently working as an **SDET(Software Development Engineer in Test)**.
+- 🌱 I love contributing to the automation community through blogs and open-source projects.
+- 👯 I'm a full stack tester. Having knoweledge of **UI**, **API**, **Mobile** and **DB testing**.
+- 💬 Ask me about anything — happy to help ✌
+- 📫 How to reach me: Any of the [Social-Media](https://www.linkedin.com/in/-ahmed-hasan) Platform 
+- ⚡ Check out my [Portfolio](https://im-ahmed-hasan.github.io/ahmed-hasan-website/)
+
+
+
+
+**Skills**
+
+- Core Java
+- Selenium webdriver
+- Rest Assured
+- Appium
+- Karate
+- Manual Testing
+
+
 
  <!--- Portfolio/Website --->  
   
