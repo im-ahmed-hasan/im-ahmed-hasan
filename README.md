@@ -118,7 +118,7 @@ My **goal** is to grow into an **Automation Architect** role—designing scalabl
 - 👯 I'm a full stack tester. Having knoweledge of **UI**, **API**, **Mobile** and **DB testing**.
 - 💬 Ask me about anything — happy to help ✌
 - 📫 How to reach me: Any of the [Social-Media](https://www.linkedin.com/in/-ahmed-hasan) Platform 
-- ⚡ Check out my [Portfolio](https://im-ahmed-hasan.github.io/ahmed-hasan-protfolio/)
+- ⚡ Check out my [Portfolio](https://www.ahmed-hasan.wuaze.com)
 
 
 
@@ -141,7 +141,7 @@ My **goal** is to grow into an **Automation Architect** role—designing scalabl
 
   <h3>Portfolio/Website</h3>
   
-   `Personal Website` -> <a href="https://im-ahmed-hasan.github.io/ahmed-hasan-protfolio/" target="_blank">`Ahmed Hasan`</a>
+   `Personal Website` -> <a href="https://www.ahmed-hasan.wuaze.com" target="_blank">`Ahmed Hasan`</a>
 
  <div align="center">
  <h1 align="center"></h1>  
