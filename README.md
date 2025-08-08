@@ -152,7 +152,7 @@ My **goal** is to grow into an **Automation Architect** role—designing scalabl
 
   <h3>Portfolio/Website</h3>
   
-   `Personal Website` -> <a href="https://www.ahmed-hasan.wuaze.com" target="_blank">`Ahmed Hasan`</a>
+   **`Personal Website`** -> <a href="https://www.ahmed-hasan.wuaze.com" target="_blank">**`Ahmed Hasan`**</a>
 
  <div align="center">
  <h1 align="center"></h1>  
