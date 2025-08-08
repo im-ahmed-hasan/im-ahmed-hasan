@@ -13,7 +13,7 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=im-ahmed-hasan&color=blue">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=34385e&center=true&width=1000&lines=Hello,+This+is+Ahmed+Hasan...;I'm+a+SDET+at+Kroger...;Thank+you+so+much+for+visiting+My+Profile...)](https://www.ahmed-hasan.wuaze.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=34385e&center=true&width=1000&lines=Hello,+This+is+Ahmed+Hasan...;I'm+an+SDET+at+Kroger...;Thank+you+so+much+for+visiting+My+Profile...)](https://www.ahmed-hasan.wuaze.com)
 
 <h3 align="center">You can Hire me As</h3>
 <h2 align="center">
@@ -128,8 +128,8 @@ My **goal** is to grow into an **Automation Architect** role—designing scalabl
 - 🌱 I love contributing to the automation community through blogs and open-source projects.
 - 👯 I'm a full stack tester. Having knoweledge of **UI**, **API**, **Mobile** and **DB testing**.
 - 💬 Ask me about anything — happy to help ✌
-- 📫 How to reach me: Any of the [Social-Media](https://www.linkedin.com/in/-ahmed-hasan) Platform 
-- ⚡ Check out my [Portfolio](https://www.ahmed-hasan.wuaze.com)
+- 📫 How to reach me: Any of the **[Social-Media](https://www.linkedin.com/in/-ahmed-hasan)** Platform 
+- ⚡ Check out **my [Portfolio](https://www.ahmed-hasan.wuaze.com)**
 
 
 
