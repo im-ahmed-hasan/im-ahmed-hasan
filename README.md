@@ -167,4 +167,6 @@ My **goal** is to grow into an **Automation Architect** role—designing scalabl
   <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=im-ahmed-hasan&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 
----
+<div align="left">
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
