@@ -168,5 +168,5 @@ My **goal** is to grow into an **Automation Architect** role—designing scalabl
 </p>
 
 <div align="left">
-<img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/pacman.svg" alt="Pacman animation" />
+<img src="https://github.com/im-ahmed-hasan/shape-shift/blob/main/assets/pacman.svg" alt="Pacman animation" />
 </div>
