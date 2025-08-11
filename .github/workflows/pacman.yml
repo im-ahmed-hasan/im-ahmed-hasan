@@ -19,13 +19,13 @@ jobs:
 
     steps:
       - name: generate pacman-contribution-graph.svg
-        uses: im-ahmed-hasan/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
 
       - name: push pacman-contribution-graph.svg to the output branch
-        uses: im-ahmed-hasan/ghaction-github-pages@v3.1.0
+        uses: abozanona/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
