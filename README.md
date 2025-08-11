@@ -157,7 +157,9 @@ My **goal** is to grow into an **Automation Architect** role—designing scalabl
  <div align="center">
  <h1 align="center"></h1>  
 
- &nbsp;**This week I spent my time on**
+ <p align="center">
+  <img src="https://img.shields.io/badge/My%20GitHub%20Analytics-1F222E?style=for-the-badge&logo=github&logoColor=white&labelColor=1F222E&color=1F222E" />
+</p>
 
  <p align="center">
   <img width="460px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenanimation20&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
