@@ -162,7 +162,7 @@ My **goal** is to grow into an **Automation Architect** role—designing scalabl
 </p>
 
  <p align="center">
-  <img width="460px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-ahmed-hasan&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
+  <img width="460px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenanimation20&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
 
 <p align="center">
   <img width="395px" src="https://github-readme-stats.vercel.app/api?username=im-ahmed-hasan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
