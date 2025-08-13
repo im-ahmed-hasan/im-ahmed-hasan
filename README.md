@@ -15,7 +15,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=34385e&center=true&width=1000&lines=Hello,+This+is+Ahmed+Hasan...;I'm+an+SDET+at+Kroger...;Thank+you+so+much+for+visiting+My+Profile...)](https://www.ahmed-hasan.wuaze.com)
 
-<h3 align="center">You can Hire me As</h3>
+<h3 align="center">The Roles I Embrace</h3>
 <h2 align="center">
   <a href="https://www.ahmed-hasan.wuaze.com"><img src="https://readme-typing-svg.herokuapp.com?lines=SDET%20(SOFTWARE%20DEVELOPMENT%20ENGINEER%20IN%20TEST);QA%20Automation%20Engineer;Test%20Automation%20Expert;Functional+Tester%20|%20API+Tester%20|%20Test+Analyst;Mobile+Automation+Engineer;SQE%20|%20SDET%20;&center=true&color=98acf2&width=600&height=50"></a>
 </h2>
