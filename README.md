@@ -41,7 +41,7 @@
 <p align="center">
   <a title="Java" href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height="40" width="50"/> </a>
   &nbsp;
-  <a title="Python" href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python " height= "40" width="40"/> </a>
+  <a title="Python" href="https://www.python.org/" target="_blank"> <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" alt="Python " height= "40" width="40"/> </a>
   &nbsp;
   <a title="JavaScript" href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a> 
   &nbsp; 
@@ -55,13 +55,15 @@
   &nbsp;
   <a title="MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" />  </a> 
   &nbsp; 
+    <a title="Amazon Redshift" href="https://aws.amazon.com/redshift/" target="_blank"> <img src="https://cdn.zappysys.com/blog/wp-content/uploads/2019/08/amazon-redshift-logo.png" alt="mongodb" width="50" />  </a> 
+  &nbsp;
   <a title="Git" href="https://git-scm.com/downloads" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
   &nbsp; 
   <a title="Github" href="https://github.com/ahmed-hasan-kr" target="_blank"> <img src="https://images.icon-icons.com/3053/PNG/512/github_alt_macos_bigsur_icon_190138.png" alt="GitHub" width="45"/> </a> 
   &nbsp;  
   <a title="Maven" href="https://maven.apache.org/download.cgi" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJzOSI3AtkpYVLkOtbzVJry5wy83535JC2jEh_3og561Cui0BB1QWcz3xpTkWY-vFCXM&usqp=CAU" alt="Maven" width="40"/> </a>
   &nbsp;
-  <a title="Selenium" href="https://www.selenium.dev/downloads/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="Selenium" width="39"/> </a>
+  <a title="Selenium" href="https://www.selenium.dev/downloads/" target="_blank"> <img src="https://toppng.com/uploads/preview/drag-and-drop-action-in-selenium-webdriver-selenium-webdriver-logo-11563140448vrkzsnnton.png" alt="Selenium" width="39"/> </a>
   &nbsp;
   <a title="Appium" href="https://appium.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Appium.png" alt="Appium" width="44"/> </a>
   &nbsp;
