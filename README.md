@@ -28,7 +28,7 @@
  <a title="WhatsApp" href="https://wa.me/19292477058" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40" width="40" />
   </a>
-  <a title="Email" href="mailto:ahmedfhasann@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
+  <a title="Email" href="mailto:ahmedfhasann@gmail.com" target="blank"><img align="center" src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/gmail.svg" alt="Email" height="35" width="40" /></a>
   &nbsp;
   <a title="LinkedIn" href="https://www.linkedin.com/in/-ahmed-hasan" target="blank"><img align="center" src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="35" width="40" /></a>
   &nbsp;
@@ -57,15 +57,17 @@
   &nbsp;
   <a title="MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="40" />  </a> 
   &nbsp; 
-    <a title="Amazon Redshift" href="https://aws.amazon.com/redshift/" target="_blank"> <img src="https://cdn.zappysys.com/blog/wp-content/uploads/2019/08/amazon-redshift-logo.png" alt="Amazon Redshift" width="50" />  </a> 
+  <a title="DBeaver" href="https://dbeaver.io/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/DBeaver.svg" alt="DBeaver" width="40" />  </a> 
+  &nbsp; 
+  <a title="Amazon Redshift" href="https://aws.amazon.com/redshift/" target="_blank"> <img src="https://cdn.zappysys.com/blog/wp-content/uploads/2019/08/amazon-redshift-logo.png" alt="Amazon Redshift" width="50" />  </a> 
   &nbsp;
   <a title="Git" href="https://git-scm.com/downloads" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Git.svg" alt="git" width="40" /> </a>
   &nbsp; 
   <a title="Github" href="https://github.com/ahmed-hasan-kr" target="_blank"> <img src="https://images.icon-icons.com/3053/PNG/512/github_alt_macos_bigsur_icon_190138.png" alt="GitHub" width="45"/> </a> 
   &nbsp;  
-    <a title="GitHub Actions" href="https://github.com/features/actions" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/GitHubActions.svg" alt="GitHub Actions" width="40"/> </a> 
+  <a title="GitHub Actions" href="https://github.com/features/actions" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/GitHubActions.svg" alt="GitHub Actions" width="40"/> </a> 
   &nbsp; 
-  <a title="Maven" href="https://maven.apache.org/download.cgi" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJzOSI3AtkpYVLkOtbzVJry5wy83535JC2jEh_3og561Cui0BB1QWcz3xpTkWY-vFCXM&usqp=CAU" alt="Maven" width="40"/> </a>
+  <a title="Maven" href="https://maven.apache.org/download.cgi" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/ApacheMaven.svg" alt="Maven" width="40"/> </a>
   &nbsp;
   <a title="Selenium" href="https://www.selenium.dev/downloads/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Selenium.svg" alt="Selenium" width="39"/> </a>
   &nbsp;
@@ -89,7 +91,7 @@
   &nbsp;
   <a title="Swagger" href="https://swagger.io/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Swagger.svg" alt="Swagger" width="40"/> </a>
   &nbsp;
-  <a title="Salesforce" href="https://www.salesforce.com/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Salesforce.svg" alt="Salesforce" width="65"/> </a>
+  <a title="Salesforce" href="https://www.salesforce.com/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Salesforce.svg" alt="Salesforce" width="40"/> </a>
   &nbsp;
   <a title="AWS" href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/AWS.svg" alt="AWS" width="40"/> </a>
   &nbsp;
