@@ -61,9 +61,9 @@
   &nbsp; 
   <a title="Amazon Redshift" href="https://aws.amazon.com/redshift/" target="_blank"> <img src="https://cdn.zappysys.com/blog/wp-content/uploads/2019/08/amazon-redshift-logo.png" alt="Amazon Redshift" width="50" />  </a> 
   &nbsp;
-  <a title="Docker" href="https://www.docker.com/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/docker.svg" alt="Docker" width="40" />  </a> 
+  <a title="Docker" href="https://www.docker.com/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Docker.svg" alt="Docker" width="40" />  </a> 
   &nbsp; 
-  <a title="DBeaver" href="https://dbeaver.io/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/DBeaver.svg" alt="DBeaver" width="40" />  </a> 
+  <a title="New Relic" href="https://newrelic.com/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/New-relic.svg" alt="New Relic" width="36" />  </a> 
   &nbsp; 
   <a title="Git" href="https://git-scm.com/downloads" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Git.svg" alt="git" width="40" /> </a>
   &nbsp; 
