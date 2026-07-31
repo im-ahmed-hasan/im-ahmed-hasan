@@ -51,9 +51,11 @@
   &nbsp;
   <a title="Oracle SQL Developer" href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
   &nbsp;
-  <a title="MySQL" href="https://www.mysql.com/" target="_blank"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MYSQL" width="40" /> </a>
+  <a title="MySQL" href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/MySQL.svg" alt="MYSQL" width="40" /> </a>
   &nbsp;
-  <a title="MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" />  </a> 
+  <a title="PostgresSQL" href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/PostgresSQL.svg" alt="MYSQL" width="40" /> </a>
+  &nbsp;
+  <a title="MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" />  </a> 
   &nbsp; 
     <a title="Amazon Redshift" href="https://aws.amazon.com/redshift/" target="_blank"> <img src="https://cdn.zappysys.com/blog/wp-content/uploads/2019/08/amazon-redshift-logo.png" alt="mongodb" width="50" />  </a> 
   &nbsp;
@@ -69,7 +71,7 @@
   &nbsp;
   <a title="Appium" href="https://appium.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Appium.png" alt="Appium" width="44"/> </a>
   &nbsp;
-  <a title="Karate Framework" href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="Karate Framework" width="42"/> </a>
+  <a title="Karate Framework" href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/KarateLabs.svg" alt="Karate Framework" width="40"/> </a>
   &nbsp;
   <a title="TestNG" href="https://testng.org/doc/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG" width="40"/> </a>
   &nbsp;
@@ -81,7 +83,7 @@
   &nbsp;
   <a title="Rally (Project Management Tool)" href="https://www.rallydev.com/" target="_blank"> <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3db8d2eb-27ca-44ca-856e-86a5f256db97.jpeg" alt="Rally" width="40"/> </a>
   &nbsp;
-  <a title="Jenkins" href="https://www.jenkins.io/" target="_blank"> <img src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409617.png" alt="Jenkins" width="40"/> </a>
+  <a title="Jenkins" href="https://www.jenkins.io/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Jenkins.svg" alt="Jenkins" width="40"/> </a>
   &nbsp;
   <a title="Postman" href="https://www.postman.com/downloads/" target="_blank"> <img src="https://images.icon-icons.com/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="Postman" width="40"/> </a>
   &nbsp;
