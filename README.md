@@ -77,7 +77,7 @@
   &nbsp;
   <a title="Selenium" href="https://www.selenium.dev/downloads/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Selenium.svg" alt="Selenium" width="40"/> </a>
   &nbsp;
-  <a title="Appium" href="https://appium.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Appium.png" alt="Appium" width="44"/> </a>
+  <a title="Appium" href="https://appium.io/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/appium.svg" alt="Appium" width="40"/> </a>
   &nbsp;
   <a title="Karate Framework" href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/KarateLabs.svg" alt="Karate Framework" width="48"/> </a>
   &nbsp;
@@ -91,7 +91,7 @@
   &nbsp;
   <a title="Rally (Project Management Tool)" href="https://www.rallydev.com/" target="_blank"> <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3db8d2eb-27ca-44ca-856e-86a5f256db97.jpeg" alt="Rally" width="40"/> </a>
   &nbsp;
-  <a title="Jenkins" href="https://www.jenkins.io/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Jenkins.svg" alt="Jenkins" width="40"/> </a>
+  <a title="Jenkins" href="https://www.jenkins.io/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Jenkins.svg" alt="Jenkins" width="45"/> </a>
   &nbsp;
   <a title="Postman" href="https://www.postman.com/downloads/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Postman.svg" alt="Postman" width="40"/> </a>
   &nbsp;
