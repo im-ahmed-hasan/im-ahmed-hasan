@@ -32,7 +32,7 @@
   &nbsp;
   <a title="LinkedIn" href="https://www.linkedin.com/in/-ahmed-hasan" target="blank"><img align="center" src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="35" width="40" /></a>
   &nbsp;
-  <a title="Twitter" href="https://twitter.com/ahmed__foysol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="38" width="40" /></a>
+  <a title="Twitter" href="https://twitter.com/ahmed__foysol" target="blank"><img align="center" src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Twitter.svg" alt="Twitter" height="40" width="40" /></a>
   
 </p>
 
