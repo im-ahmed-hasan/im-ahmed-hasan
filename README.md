@@ -55,9 +55,9 @@
   &nbsp;
   <a title="PostgresSQL" href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/PostgresSQL.svg" alt="MYSQL" width="40" /> </a>
   &nbsp;
-  <a title="MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" />  </a> 
+  <a title="MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="40" />  </a> 
   &nbsp; 
-    <a title="Amazon Redshift" href="https://aws.amazon.com/redshift/" target="_blank"> <img src="https://cdn.zappysys.com/blog/wp-content/uploads/2019/08/amazon-redshift-logo.png" alt="mongodb" width="50" />  </a> 
+    <a title="Amazon Redshift" href="https://aws.amazon.com/redshift/" target="_blank"> <img src="https://cdn.zappysys.com/blog/wp-content/uploads/2019/08/amazon-redshift-logo.png" alt="Amazon Redshift" width="50" />  </a> 
   &nbsp;
   <a title="Git" href="https://git-scm.com/downloads" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Git.svg" alt="git" width="40" /> </a>
   &nbsp; 
@@ -67,7 +67,7 @@
   &nbsp; 
   <a title="Maven" href="https://maven.apache.org/download.cgi" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJzOSI3AtkpYVLkOtbzVJry5wy83535JC2jEh_3og561Cui0BB1QWcz3xpTkWY-vFCXM&usqp=CAU" alt="Maven" width="40"/> </a>
   &nbsp;
-  <a title="Selenium" href="https://www.selenium.dev/downloads/" target="_blank"> <img src="https://toppng.com/uploads/preview/drag-and-drop-action-in-selenium-webdriver-selenium-webdriver-logo-11563140448vrkzsnnton.png" alt="Selenium" width="39"/> </a>
+  <a title="Selenium" href="https://www.selenium.dev/downloads/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Selenium.svg" alt="Selenium" width="39"/> </a>
   &nbsp;
   <a title="Appium" href="https://appium.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Appium.png" alt="Appium" width="44"/> </a>
   &nbsp;
@@ -91,7 +91,7 @@
   &nbsp;
   <a title="Salesforce" href="https://www.salesforce.com/" target="_blank"> <img src="https://images.icon-icons.com/2699/PNG/512/salesforce_logo_icon_168852.png" alt="Salesforce" width="65"/> </a>
   &nbsp;
-  <a title="AWS" href="https://aws.amazon.com/" target="_blank"> <img src="https://images.icon-icons.com/2407/PNG/512/aws_icon_146074.png" alt="AWS" width="40"/> </a>
+  <a title="AWS" href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/AWS.svg" alt="AWS" width="40"/> </a>
   &nbsp;
   <a title="Charles Proxy" href="https://www.charlesproxy.com/" target="_blank"> <img src="https://images.icon-icons.com/1381/PNG/512/charlesproxy_94518.png" alt="Charles Proxy" width="40"/> </a>
   &nbsp;
