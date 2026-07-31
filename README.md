@@ -30,7 +30,7 @@
   </a>
   <a title="Email" href="mailto:ahmedfhasann@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
   &nbsp;
-  <a title="LinkedIn" href="https://www.linkedin.com/in/-ahmed-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a>
+  <a title="LinkedIn" href="https://www.linkedin.com/in/-ahmed-hasan" target="blank"><img align="center" src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="35" width="40" /></a>
   &nbsp;
   <a title="Twitter" href="https://twitter.com/ahmed__foysol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="38" width="40" /></a>
   
@@ -97,17 +97,17 @@
   &nbsp;
   <a title="Sauce Labs" href="https://saucelabs.com/" target="_blank"> <img src="https://images.icon-icons.com/2699/PNG/512/saucelabs_logo_icon_168848.png" alt="Saucslabs" width="40"/> </a> 
   &nbsp; 
-  <a title="BrowserStack" href="https://www.browserstack.com/"  target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/browserstack-logo-png-transparent.png" alt="Browserstack" width="40"/> </a>
+  <a title="BrowserStack" href="https://www.browserstack.com/"  target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/BrowserStack.svg" alt="Browser Stack" width="40"/> </a>
   &nbsp;
   <a href="SDLC" target="_blank"> <img src="https://t4.ftcdn.net/jpg/05/41/91/07/360_F_541910787_PROoPe5SAXpM1ZQbD0kJtXHDp1pjjfcV.jpg" alt="SDLC" width="40"/> </a>
   &nbsp;
-  <a title="Eclipse" href="https://www.eclipse.org/downloads/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="Eclipse" width="40"/> </a>
+  <a title="Eclipse" href="https://www.eclipse.org/downloads/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/EclipseIDE.svg" alt="Eclipse" width="40"/> </a>
   &nbsp;
-  <a title="IntelliJ IDEA" href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDea " width="40"/> </a>
+  <a title="IntelliJ IDEA" href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/IntelliJIDEA.svg" alt="IntelliJ IDEA" width="40"/> </a>
   &nbsp; 
-  <a title="VSCode" href="https://code.visualstudio.com/"target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
+  <a title="VSCode" href="https://code.visualstudio.com/"target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/VSCode.svg" alt="VS Code" width="40"/> </a>
   &nbsp;
-  <a title="PyCharm" href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" alt="Pycharm " width="40"/> </a>
+  <a title="PyCharm" href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/PyCharm.svg" alt="PyCharm" width="40"/> </a>
 </p>
 
 ---
