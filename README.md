@@ -49,7 +49,7 @@
   &nbsp;
   <a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/CSS.svg" alt="CSS" width="40" /> </a>
   &nbsp;
-  <a title="Oracle SQL Developer" href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
+  <a title="Oracle SQL" href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/SQL.svg" alt="SQL" width="40"/> </a>
   &nbsp;
   <a title="MySQL" href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/MySQL.svg" alt="MYSQL" width="40" /> </a>
   &nbsp;
