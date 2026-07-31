@@ -71,11 +71,11 @@
   &nbsp;
   <a title="Appium" href="https://appium.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Appium.png" alt="Appium" width="44"/> </a>
   &nbsp;
-  <a title="Karate Framework" href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/KarateLabs.svg" alt="Karate Framework" width="40"/> </a>
+  <a title="Karate Framework" href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/KarateLabs.svg" alt="Karate Framework" width="48"/> </a>
   &nbsp;
   <a title="TestNG" href="https://testng.org/doc/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="TestNG" width="40"/> </a>
   &nbsp;
-  <a title="Cucumber" href="https://cucumber.io/" target="_blank"> <img src="https://images.icon-icons.com/2415/PNG/512/cucumber_plain_logo_icon_146571.png" alt="Cucumber" width="40"/> </a>
+  <a title="Cucumber" href="https://cucumber.io/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Cucumber.svg" alt="Cucumber" width="40"/> </a>
   &nbsp;
   <a title="Rest-Assured" href="https://rest-assured.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured" width="40"/> </a>
   &nbsp;
