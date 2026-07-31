@@ -67,9 +67,11 @@
   &nbsp;  
   <a title="GitHub Actions" href="https://github.com/features/actions" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/GitHubActions.svg" alt="GitHub Actions" width="40"/> </a> 
   &nbsp; 
+    <a title="GitHub Copilot" href="https://github.com/features/copilot" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/github-copilot.svg" alt="GitHub Copilot" width="40"/> </a> 
+  &nbsp; 
   <a title="Maven" href="https://maven.apache.org/download.cgi" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/ApacheMaven.svg" alt="Maven" width="40"/> </a>
   &nbsp;
-  <a title="Selenium" href="https://www.selenium.dev/downloads/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Selenium.svg" alt="Selenium" width="39"/> </a>
+  <a title="Selenium" href="https://www.selenium.dev/downloads/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Selenium.svg" alt="Selenium" width="40"/> </a>
   &nbsp;
   <a title="Appium" href="https://appium.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Appium.png" alt="Appium" width="44"/> </a>
   &nbsp;
