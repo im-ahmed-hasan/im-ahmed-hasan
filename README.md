@@ -39,15 +39,15 @@
 <h3 align="center">Languages and Tools</h3>
 </br>
 <p align="center">
-  <a title="Java" href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height="40" width="50"/> </a>
+  <a title="Java" href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Java.svg" alt="Java" height="40" width="50"/> </a>
   &nbsp;
-  <a title="Python" href="https://www.python.org/" target="_blank"> <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" alt="Python " height= "40" width="40"/> </a>
+  <a title="Python" href="https://www.python.org/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Python.svg" alt="Python " height= "40" width="40"/> </a>
   &nbsp;
-  <a title="JavaScript" href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a> 
+  <a title="JavaScript" href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" /> </a> 
   &nbsp; 
-  <a title="HTML" href="https://html.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="HTML" width="40" /> </a>
+  <a title="HTML" href="https://html.com/" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/HTML.svg" alt="HTML" width="40" /> </a>
   &nbsp;
-  <a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS" width="40" /> </a>
+  <a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/CSS.svg" alt="CSS" width="40" /> </a>
   &nbsp;
   <a title="Oracle SQL Developer" href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
   &nbsp;
