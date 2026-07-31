@@ -57,10 +57,12 @@
   &nbsp; 
     <a title="Amazon Redshift" href="https://aws.amazon.com/redshift/" target="_blank"> <img src="https://cdn.zappysys.com/blog/wp-content/uploads/2019/08/amazon-redshift-logo.png" alt="mongodb" width="50" />  </a> 
   &nbsp;
-  <a title="Git" href="https://git-scm.com/downloads" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
+  <a title="Git" href="https://git-scm.com/downloads" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/Git.svg" alt="git" width="40" /> </a>
   &nbsp; 
   <a title="Github" href="https://github.com/ahmed-hasan-kr" target="_blank"> <img src="https://images.icon-icons.com/3053/PNG/512/github_alt_macos_bigsur_icon_190138.png" alt="GitHub" width="45"/> </a> 
   &nbsp;  
+    <a title="GitHub Actions" href="https://github.com/features/actions" target="_blank"> <img src="https://github.com/im-ahmed-hasan/dev-icons/blob/main/icons/GitHub%20Actions.svg" alt="GitHub Actions" width="40"/> </a> 
+  &nbsp; 
   <a title="Maven" href="https://maven.apache.org/download.cgi" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJzOSI3AtkpYVLkOtbzVJry5wy83535JC2jEh_3og561Cui0BB1QWcz3xpTkWY-vFCXM&usqp=CAU" alt="Maven" width="40"/> </a>
   &nbsp;
   <a title="Selenium" href="https://www.selenium.dev/downloads/" target="_blank"> <img src="https://toppng.com/uploads/preview/drag-and-drop-action-in-selenium-webdriver-selenium-webdriver-logo-11563140448vrkzsnnton.png" alt="Selenium" width="39"/> </a>
